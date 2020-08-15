@@ -1,6 +1,10 @@
-## Greetings, I'm Fabio! 👋🏻
+## Greetings, I’m Fabio! 👋🏻
 
-## A passionate programmer from Italy! 🇮🇹
+I’m currently studying Computer Science & Engineering at [Politecnico di Milano][polimi], Italy.
+
+<br />
+
+---
 
 ### Languages & Tools 💻
 <img align = "left" alt = "C" width = "26px" src = "https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg">
@@ -15,6 +19,9 @@
 ### Stats 📈
 <img align = "left" alt = "GitHub Stats" src = "https://github-readme-stats.vercel.app/api?username=fabio-ciani-polimi&show_icons=true">
 <img align = "left" alt = "GitHub Top Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-ciani-polimi">
+
+
+[polimi]: https://www.polimi.it/
 
 <!--
 **fabio-ciani-polimi/fabio-ciani-polimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
