@@ -2,7 +2,7 @@
 
 I’m currently studying Computer Science & Engineering at [Politecnico di Milano][polimi], Italy.
 
----
+<br />
 
 ### Languages & Tools 💻
 <img align = "left" alt = "C" width = "26px" src = "https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg">
