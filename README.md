@@ -8,6 +8,8 @@
 <img align = "left" alt = "Python" width = "26px" src = "https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg">
 <img align = "left" alt = "JavaScript" width = "26px" src = "https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg">
 
+<br />
+
 ---
 
 ### Stats 📈
