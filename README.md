@@ -1,4 +1,12 @@
-### Hi there 👋
+## Greetings, I'm Fabio! 👋🏻
+
+## A passionate programmer from Italy.! 🇮🇹
+
+### Languages & Tools 💻
+<img align = "left" alt = "C" width = "26px" src = "https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg">
+<img align = "left" alt = "C++" width = "26px" src = "https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg">
+<img align = "left" alt = "Python" width = "26px" src = "https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg">
+<img align = "left" alt = "JavaScript" width = "26px" src = "https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg">
 
 <!--
 **fabio-ciani-polimi/fabio-ciani-polimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
