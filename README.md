@@ -2,8 +2,6 @@
 
 I’m currently studying Computer Science & Engineering at [Politecnico di Milano][polimi], Italy.
 
-<br />
-
 ---
 
 ### Languages & Tools 💻
