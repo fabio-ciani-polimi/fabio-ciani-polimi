@@ -5,12 +5,13 @@ I’m currently studying Computer Science & Engineering at [Politecnico di Milan
 ---
 
 ### Languages & Tools 💻
-<img align = "left" alt = "C" width = "26px" src = "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg">
-<img align = "left" alt = "C++" width = "26px" src = "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg">
-<img align = "left" alt = "Python" width = "26px" src = "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg">
-<img align = "left" alt = "JavaScript" width = "26px" src = "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg">
+<img align = "left" alt = "C" width = "48px" src = "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg">
+<img align = "left" alt = "C++" width = "48px" src = "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg">
+<img align = "left" alt = "Python" width = "48px" src = "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg">
+<img align = "left" alt = "JavaScript" width = "48px" src = "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg">
+<img align = "left" alt = "MATLAB" width = "48px" src = "https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/matlab/matlab-original.svg">
 
-<br />
+<br /><br />
 
 ---
 
